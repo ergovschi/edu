@@ -1,0 +1,22 @@
+[05-Jun-2011 00:21:08] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 00:22:34] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 00:22:35] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 00:22:35] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 00:22:36] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 00:22:36] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 00:22:36] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 00:24:01] PHP Fatal error:  Call to a member function get_records() on a non-object in /home/panourii/public_html/edu/application/controllers/site.php on line 9
+[05-Jun-2011 18:00:04] PHP Fatal error:  Call to undefined method Site_model::get_record() in /home/panourii/public_html/edu/application/controllers/admin.php on line 32
+[05-Jun-2011 18:02:13] PHP Fatal error:  Cannot use object of type stdClass as array in /home/panourii/public_html/edu/application/models/site_model.php on line 25
+[05-Jun-2011 18:20:27] PHP Fatal error:  Call to undefined method Shuffle::get_one_record() in /home/panourii/public_html/edu/application/controllers/shuffle.php on line 13
+[05-Jun-2011 18:25:20] PHP Fatal error:  Call to undefined method Site_model::get_random_site() in /home/panourii/public_html/edu/application/controllers/shuffle.php on line 14
+[05-Jun-2011 18:25:21] PHP Fatal error:  Call to undefined method Site_model::get_random_site() in /home/panourii/public_html/edu/application/controllers/shuffle.php on line 14
+[05-Jun-2011 18:31:42] PHP Parse error:  syntax error, unexpected ';' in /home/panourii/public_html/edu/application/views/shuffle_view.php on line 14
+[06-Jun-2011 10:52:37] PHP Fatal error:  Cannot redeclare class Site_model in /home/panourii/public_html/edu/application/models/user_model.php on line 24
+[06-Jun-2011 10:53:03] PHP Fatal error:  Cannot redeclare class Site_model in /home/panourii/public_html/edu/application/models/user_model.php on line 21
+[06-Jun-2011 10:53:19] PHP Fatal error:  Cannot redeclare class Site_model in /home/panourii/public_html/edu/application/models/user_model.php on line 21
+[06-Jun-2011 12:32:46] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::instert() in /home/panourii/public_html/edu/application/models/user_model.php on line 24
+[06-Jun-2011 13:21:10] PHP Parse error:  syntax error, unexpected '>' in /home/panourii/public_html/edu/application/views/welcome_message.php on line 6
+[06-Jun-2011 13:22:35] PHP Parse error:  syntax error, unexpected '<' in /home/panourii/public_html/edu/application/views/shuffle_view.php on line 16
+[06-Jun-2011 13:53:51] PHP Parse error:  syntax error, unexpected '}' in /home/panourii/public_html/edu/application/controllers/user.php on line 76
+[06-Jun-2011 14:25:40] PHP Fatal error:  Cannot use object of type stdClass as array in /home/panourii/public_html/edu/application/controllers/shuffle.php on line 15
